@@ -2,16 +2,7 @@
 
 Uma página de contato elegante e moderna desenvolvida com Vue 3, apresentando links para redes sociais e informações de contato.
 
-## Características
-
-- ✨ Design moderno e responsivo
-- 🎨 Gradientes e animações suaves
-- 📱 Totalmente responsivo para mobile
-- 🌈 Ícones das redes sociais com hover effects
-- 💫 Animações de entrada elegantes
-- 🎯 Tooltips informativos
-
-## Redes Sociais Incluídas
+## Redes Sociais 
 
 - Instagram
 - LinkedIn
