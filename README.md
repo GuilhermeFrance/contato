@@ -2,6 +2,8 @@
 
 Uma página de contato elegante e moderna desenvolvida com Vue 3, apresentando links para redes sociais e informações de contato.
 
+[Contate-me!](https://contato-psi-ruddy.vercel.app/)
+
 ## Redes Sociais 
 
 - Instagram
